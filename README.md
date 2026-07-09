@@ -25,11 +25,19 @@ Length is represented universally by **doubling the character** (`aa`, `ää`, `
 
 | Vowel | IPA | Unicode Name | Hex Code | Regional / Language Context |
 | :---: | :---: | :--- | :---: | :--- |
-| **ä** | [æ] | LATIN SMALL LETTER A WITH DIAERESIS | `U+00E4` | Near-open front unrounded (Finnish, Moksha, Nenets) |
-| **ö** | [ø] | LATIN SMALL LETTER O WITH DIAERESIS | `U+00F6` | Mid-front rounded (Finnish, Hungarian, Mari, Komi) |
-| **ü** | [y] | LATIN SMALL LETTER U WITH DIAERESIS | `U+00FC` | Close front rounded (Estonian, Hungarian, Nenets) |
-| **ə** | [ə] | LATIN SMALL LETTER SCHWA | `U+019F` | Central schwa (Moksha, Erzya, Mari, Nenets) |
+| **ä** | [æ] | LATIN SMALL LETTER A WITH DIAERESIS | `U+00E4` | Near-open front unrounded (Finnish, Moksha, Nenets, ) |
+| **ö** | [ø] | LATIN SMALL LETTER O WITH DIAERESIS | `U+00F6` | Mid-front rounded (Finnish, Estonian, Hungarian, Mari `ӧ`, Permic `ӧ` (Value varies for Permic `ӧ`, but can be [ɘ] or [ɵ], and the rounded/weakly rounded and close-mid nature is best represented by ö)) |
+| **ü** | [y] | LATIN SMALL LETTER U WITH DIAERESIS | `U+00FC` | Close front rounded (Estonian, Hungarian, Mari El `ӱ`, can be represented by the letter `y` if preferred, since Finnish uses `y`) |
+| **ə** | [ə] | LATIN SMALL LETTER SCHWA | `U+019F` | Central schwa (Mari El `ы`, Khanty,  Nenets) |
 | **õ** | [ɯ] | LATIN SMALL LETTER O WITH TILDE | `U+00F5` | Close back unrounded (Permic `ы`, Estonian, Livonian) |
+| **e** | [e] | LATIN SMALL LETTER E | `U+0065` | Close-mid front unrounded (All Uralic languages) |
+| **i** | [i] | LATIN SMALL LETTER I | `U+0069` | Close front unrounded (All Uralic languages) |
+| **ɛ** | [ɛ] | LATIN SMALL LETTER OPEN E | `U+025B` | Open-mid front unrounded (Khanty `є`, Enets `ԑ`) |
+| **ꞷ** | [ɔ] | LATIN SMALL LETTER OMEGA | `U+A7B7` | Open-mid back rounded (Enets `o`) |
+| **a** |  [a] or [ɑ] | LATIN SMALL LETTER A | `U+0061` | Open central unrounded or Open back unrounded (All Uralic Languages) |
+| **o** |  [o] | LATIN SMALL LETTER O | `U+006F` | Close-mid back unrounded (All Uralic Languages, Enets `о̂`) |
+| **u** |  [u] | LATIN SMALL LETTER U | `U+0075` | Close back unrounded (All Uralic Languages) |
+
 
 ### 2. Consonants & Fricative Stability
 *   **`h`** (`U+0068`): Strictly the breathy *voiceless glottal fricative* [h] (Hungarian *ház*).
@@ -47,8 +55,8 @@ Diacritics are stacked sequentially *after* the base consonant letter.
 `L` + `U+0325` (Ring) + `U+0301` (Acute) = **`ĺ̥`**
 
 ### 4. The Samoyedic Glottal Stops
-*   **`ɂ`** (`U+0242`): Plain Glottal Stop [ʔ] (Replaces Tundra Nenets Cyrillic `ˮ`).
-*   **`ɂ̃`** (`U+0242` + `U+0303`): Nasalized Glottal Stop [ʔⁿ] (Replaces Tundra Nenets Cyrillic `ʼ`).
+*   **`ɂ`** (`U+0242`): Plain Glottal Stop [ʔ] (Replaces Forest Enets, Tundra Enets, Forest Nenets, and Tundra Nenets Cyrillic `ˮ`).
+*   **`ɂ̃`** (`U+0242` + `U+0303`): Nasalized Glottal Stop [ʔⁿ] (Replaces Tundra Nenets and Forest Nenets Cyrillic `ʼ`).
 
 ---
 
@@ -70,7 +78,7 @@ Turns the underutilized Semicolon (**`;`**) and Backtick (**`` ` ``**) into "Dea
 | **`;`** then **`` ` ``** | `l` | **`ĺ̥`** | Voiceless-Palatalized Sonorant |
 | **`;`** *(Palatalization)* | `'` | **`ɂ̃`** | Nasalized Glottal Stop |
 
-### Affricate Matrix Macros
+### Affricate Matrix Macros (Makes it easier to understand affricates, undoes Slavic c being used for ts, removes the Slavic element, making it uniquely Uralic)
 *   Type `ts` ──> **`ts`** | Type `tss` ──> **`tss`** (Geminated)
 *   Type `tš` ──> **`tš`** | Type `tšš` ──> **`tšš`** (Geminated)
 *   Type `t;s` ──> **`t́ś`** | Type `t;ss` ──> **`t́śś`** (Geminated)
@@ -80,15 +88,43 @@ Turns the underutilized Semicolon (**`;`**) and Backtick (**`` ` ``**) into "Dea
 ## 🧪 Universal Diagnostic Cross-Test
 
 Proof of structural clarity across families using the UUA standard:
-
-| Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) |
+ From proto Uralic term for 'eye'
+| Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA |
 | :--- | :--- | :--- |
-| **Finnish** | *silmä* | **`silmä`** |
-| **Estonian** | *silm* | **`silm`** |
+| **Proto-Uralic** | *śilmä* | **`śilmä`** | **`ˈɕilmæ`** or **`sʲilmæ`** |
+
+| **Proto-Finnic** | *silmä* | **`silmä`** | **`ˈsilmæ`** |
+| **Finnish** | *silmä* | **`silmä`** | **`ˈsilmæ`** |
+| **Estonian** | *silm* | **`silm`** | **`ˈsilm`** |
+| **Ingrian (Ala-Laukaa)** | *silmä* | **`silmä`** | **`ˈsilmæ`** |
+| **Ingrian (Soikkola)** | *silmä* | **`siĺmä`** | **`ˈsilʲmæ`** |
+| **North Karelian** | *šilmä* | **`šilmä`** | **`ˈʃilmæ`** |
+| **South Karelian** | *šilmä* | **`šilmä`** | **`ˈʃilmæ`** |
+| **Livonian** | *sīlma* | **`siilma`** | **`ˈsiːlmɑ`** |
+| **Livvi** | *silmy* or *silmü* | **`silmy`** or **`silmü`** | **`ˈsilmy`** |
+| **Ludian (Mundärv, Kompohd')** | *šilm* | **`šilm`** | **`ˈʃilm`** |
+| **Ludian (Mundärv)** | *silʹm* | **`siĺm`** |
+| **Veps** | *silʹm* | **`siĺm`** | **`ˈsilʲm`** |
+| **Võro** | *silm* | **`silm`** | **`ˈsilm`**|
+| **Votic**| *silme* | **`śilmä`** or **`silmä`** | **`ˈsʲilmæ`** or **`ˈsilmæ`**|
+
+| **Proto-Sami** | *čëlmē* | **`tšɘlmee`** | **`ˈt͡ʃɘlmeː`** |
+| **Northern Sami** | *čalbmi* | **`tšalbmi`** | **`ˈt͡ʃalbmi`** |
+| **Northern Sami (Kautokeino)** | *čalbmi* | **`tšallpmii`** | **`ˈt͡ʃalːpmiː`** |
+
+
+| **Proto-Permic** | *śin* | **`śin`**
+
+
+| **Komi-Zyrian** | Сьӧлӧм | **`Śölöm`** | **`ˈɕɘlɘm`** |
+| **Komi-Permyak** | Сьӧлӧм | **`Śölöm`** | **`ɕɘˈlɘm`** |
+
+| **Proto-Mordvinic** | *śeľmə* | **`śeľmə`** 
 | **Moksha** | Сельме | **`Śeĺmä`** |
-| **Erzya** | Сельме | **`Śeĺme`** |
-| **Komi** | Сьӧлӧм | **`Śölöm`** |
+| **Erzya** | Сельме or Сӓльме | **`Śeĺme`** or **`Śäĺme`** |
+
 | **Khanty** | хулэм | **`xulem`** |
+| **Northern Mansi** | | |**`ˈsam`** |
 | **Hungarian** | *szem* | **`sem`** |
 | **Tundra Nenets** | Мяˮкананд | **`Ḿaɂkanand`** |
 | **Forest Nenets** | Мяˮкананд ӣд́ | **`Ḿaɂkanand iid́́`** |
