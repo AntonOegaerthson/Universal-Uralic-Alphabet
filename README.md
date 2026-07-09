@@ -92,8 +92,6 @@ Proof of structural clarity across families using the UUA standard:
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA |
 | :--- | :--- | :--- | :--- |
 | **Proto-Uralic** | *śilmä* | **`śilmä`** | **`ˈɕilmæ`** or **`sʲilmæ`** |
-
-Finnic
 | **Proto-Finnic** | *silmä* | **`silmä`** | **`ˈsilmæ`** |
 | **Finnish** | *silmä* | **`silmä`** | **`ˈsilmæ`** |
 | **Estonian** | *silm* | **`silm`** | **`ˈsilm`** |
@@ -108,43 +106,30 @@ Finnic
 | **Veps** | *silʹm* | **`siĺm`** | **`ˈsilʲm`** |
 | **Võro** | *silm* | **`silm`** | **`ˈsilm`**|
 | **Votic**| *silme* | **`śilmä`** or **`silmä`** | **`ˈsʲilmæ`** or **`ˈsilmæ`**|
-
-Sami
 | **Proto-Sami** | *čëlmē* | **`tšɘlmee`** | **`ˈt͡ʃɘlmeː`** |
-Western Samic
 | **Northern Sami** | *čalbmi* | **`tšalbmi`** | **`ˈt͡ʃalbmi`** |
 | **Northern Sami (Kautokeino)** | *čalbmi* | **`tšallpmii`** | **`ˈt͡ʃalːpmiː`** |
 | **Southern Sami** | *tjelmie* | **`tšelmie`** |
 | **Ume Sami** | *tjalbmie* | **`tšalbmie`** | 
 | **Pite Sami** | *tjalbme* | **`tšalbme`** |
 | **Lule Sami** |  *tjalmme* | **`tšalmme`** |
-Eastern Samic
 | **Inari Sami** | *čalme* | **`tšalme`**
 | **Skolt Sami** | *čâʹlmm* | **`tšȧĺmm`**
 | **Akkala Sami** | чилльм or челльм | **`tšiĺĺm`** or **`tšeĺĺm`** |
 | **Kildin Sami** | чалльм or ча̄лльм | **`tšaĺĺm`** or **`tšaaĺĺm`** |
 | **Ter Sami** | чалльмэ | **`tšaĺĺme`** |
-
-Mari
 | **Proto-Mari** | *šĭńća* | **`šeńt́śa`** | **`ˈʃenʲtʲsʲa`** | ĭ is close mid front vowel
 | **Eastern-Mari** | шинча | **`šint́śa`** | **`ʃinˈt͡ɕɑ`** |
 | **North-Western Mari** | шӹнцӓ | **`sə̈ntsä`** |
 | **Western Mari** | сӹнзӓ | **`sə̈nzä`** |
-
-Permic
 | **Proto-Permic** | *śin* | **`śin`** |
 | **Komi-Zyrian** | син | **`śin`** | **`ˈɕin`** |
 | **Komi-Permyak** | син | **`śin`** | **`ˈɕin`** |
 | **Komi-Yazva** | син | **`śin`** | **`ˈɕin`** |
 | **Udmurt** | син | **`śin`** | **`ˈɕin`** |
-
-Mordvinic
 | **Proto-Mordvinic** | *śeľmə* | **`śeľmə`** 
 | **Moksha** | Сельме | **`Śeĺmä`** |
 | **Erzya** | Сельме or Сӓльме | **`Śeĺme`** or **`Śäĺme`** |
-
-
-Ugric
 | **Hungarian** | *szem* | **`sem`** | 
 | **Proto-Khanty** | säm | **`säm`** | **`ˈsäm`** |
 | **Northern-Khanty (Kazym)** | сєм | **`sɛm`** | **`ˈsɛm`** |
@@ -156,8 +141,6 @@ Ugric
 | **Eastern Mansi (Yukonda)** | сӓм | **`säm`** |
 | **Western Mansi (Pelym, Lower Lozva, North Vagil, South Vagil)** | *šäm* | **`šäm`** | **`ˈʃæm`** |
 | **Southern Mansi (Tavda)** | *šäm* | **`šäm`** | **`ˈʃæm`** |
-
-Samoyedic
 | **Proto-Samoyedic** | *səjmä* | **`səjmä`**
 | **Nganasan** | сеймы | **`śejmɨ`** |
 | **Forest Enets** | сэй | **`sej`** |
