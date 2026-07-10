@@ -34,9 +34,11 @@ Length is represented universally by **doubling the character** (`aa`, `ää`, `
 | **i** | [i] | LATIN SMALL LETTER I | `U+0069` | Close front unrounded (All Uralic languages) |
 | **ɛ** | [ɛ] | LATIN SMALL LETTER OPEN E | `U+025B` | Open-mid front unrounded (Khanty `є`, Enets `ԑ`) |
 | **ꞷ** | [ɔ] | LATIN SMALL LETTER OMEGA | `U+A7B7` | Open-mid back rounded (Enets `o`) |
-| **a** |  [a] or [ɑ] | LATIN SMALL LETTER A | `U+0061` | Open central unrounded or Open back unrounded (All Uralic Languages) |
-| **o** |  [o] | LATIN SMALL LETTER O | `U+006F` | Close-mid back unrounded (All Uralic Languages, Enets `ô`) |
-| **u** |  [u] | LATIN SMALL LETTER U | `U+0075` | Close back unrounded (All Uralic Languages) |
+| **a** | [a] or [ɑ] | LATIN SMALL LETTER A | `U+0061` | Open central unrounded or Open back unrounded (All Uralic Languages) |
+| **o** | [o] | LATIN SMALL LETTER O | `U+006F` | Close-mid back unrounded (All Uralic Languages, Enets `ô`) |
+| **u** | [u] | LATIN SMALL LETTER U | `U+0075` | Close back unrounded (All Uralic Languages) |
+| **ө** | [ɤ̹̈] | LATIN SMALL LETTER BARRED O | `U+0275` | CLose-mid back slightly centralized weakly rounded (Komi-Yazva) Used as the "central counterpart" to a present "ö", appearing between ö and o.) |
+
 ### 2. Consonants & Fricative Stability
 *   **`h`** (`U+0068`): Strictly the breathy *voiceless glottal fricative* [h] (Hungarian *haaz*).
 *   **`x`** (`U+0078`): Strictly the scraping *voiceless velar fricative* [x] (Khanty *xoot*, Moksha *koxva*).
@@ -196,10 +198,10 @@ Proof of structural clarity across families using the UUA standard.
 Built to maximize touch real estate using a highly intuitive **Long-Press (Hold)** pop-up strategy based on standard Latin base character keys.
 
 ```text
-[A] ──>  [ ä ] [ aa ] [ ää ]
-[E] ──>  [ e ] [ ee ] [ ə ] [ əə ]
-[O] ──>  [ ö ] [ öö ] [ õ ]
-[U] ──>  [ ü ] [ üü ]
+[A] ──>  [ a ] [ aa ] [ ä ] [ ää ]
+[E] ──>  [ e ] [ ee ] [ ə ] [ əə ] [ ə̈ ] [ ə̈ə̈ ]
+[O] ──>  [ ö ] [ öö ] [ õ ] [ õõ ] [ ]
+[U] ──>  [ u ] [ uu ] [ ü ] [ üü ]
 [L] ──>  [ ĺ ] [ l̥ ]  [ ĺ̥ ] [ ł ] [ ł́ ]
 [R] ──>  [ ŕ ] [ r̥ ]  [ ŕ̥ ]
 [N] ──>  [ ń ] [ n̥ ]  [ ń̥ ]
