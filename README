@@ -171,9 +171,28 @@ Proof of structural clarity across families using the UUA standard.
 | **Khanty** | хулэм | `xuləm` | Uses central schwa `ə` |
 | **Mansi** | шим | `šim` | |
 
+---
+
+## 📱 Mobile Keyboard Interaction Layout (iOS / Android)
+
+Built to maximize touch real estate using a highly intuitive **Long-Press (Hold)** pop-up strategy based on standard Latin base character keys.
+
+```text
+[A] ──>  [ ä ] [ aa ] [ ää ]
+[E] ──>  [ e ] [ ee ] [ ə ] [ əə ]
+[O] ──>  [ ö ] [ öö ] [ õ ]
+[U] ──>  [ ü ] [ üü ]
+[L] ──>  [ ĺ ] [ l̥ ]  [ ĺ̥ ] [ ł ] [ ł́ ]
+[R] ──>  [ ŕ ] [ r̥ ]  [ ŕ̥ ]
+[N] ──>  [ ń ] [ n̥ ]  [ ń̥ ]
+['] ──>  [ ɂ ] [ ɂ̃ ]
+```
+
+---
+
+## 🛠 Installation & Building
 
 
-#
 ---
 
 ## 🛠️ Installation & Building
