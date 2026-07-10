@@ -128,12 +128,12 @@ Proof of structural clarity across families using the UUA standard.
 | **Moksha** | сельме  | `Śeĺmä` | — |
 | **Erzya** | сельме  or сӓльме | `Śeĺme` or `Śäĺme` | — |
 | **Hungarian** | *szem* | `sem` | — |
-| **Proto-Khanty** | säm | `säm` | `ˈsäm` |
+| **Proto-Khanty** | säm | `säm` | `ˈsäm` | 
 | **Northern-Khanty (Kazym)** | сєм | `sɛm` | `ˈsɛm` |
 | **Eastern-Khanty (Surgut)** | сӓм | `sɛm` | `ˈsɛm` |
 | **Eastern-Khanty (Vakh)** | сeм | `sem` | `ˈsem` |
 | **Eastern-Khanty (Vasyugan)** | сeм | `śem` | `ˈsʲem` |
-| **Northern Mansi** | sam | `сaм` | `ˈсam` |
+| **Northern Mansi** | сeм | `sam` | `ˈsam` |
 | **Eastern Mansi (Upper Konda)** | śaм | `śam` | — |
 | **Eastern Mansi (Yukonda)** | сӓм | `säm` | — |
 | **Western Mansi** | *šäм* | `šäm` | `ˈʃæm` |
@@ -159,10 +159,10 @@ Proof of structural clarity across families using the UUA standard.
 | **Moksha** | Sedi | `Śəd́i` | |
 | **Erzya** | Sedej | `Śəd́ej` | |
 
-| **Proto-Permic śulem
+| **Proto-Permic** | śɔ̈läm  |
 | **Komi-Zyryan** | Śölöm | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
 | **Komi-Permyak** | Śölöm | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
-| **Komi-Yazva** | Śölöm | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
+| **Komi-Yazva** | Śölöm | `Śölɵm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
 | **Udmurt** | Śulem | `Śulem` | — |
 | **Hungarian** | *sziiv* | `siiv` | Long vowel via UUA doubling |
 | **Khanty** | xulem | `xuləm` | Uses central schwa `ə` |
