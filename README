@@ -74,6 +74,7 @@ Turns the underutilized Semicolon (**`;`**) and Backtick (**`` ` ``**) into "Dea
 | **`` ` ``** *(Voicelessness)* | `r` | **`r̥`** | Voiceless Sonorant |
 | **`;`** then **`` ` ``** | `l` | **`ĺ̥`** | Voiceless-Palatalized Sonorant |
 | **`;`** *(Palatalization)* | `'` | **`ɂ̃`** | Nasalized Glottal Stop |
+---
 ### Affricate Matrix Macros (Makes it easier to understand affricates, undoes Slavic c being used for ts, removes the Slavic element, making it uniquely Uralic)
 *   Type `ts` ──> **`ts`** | Type `tss` ──> **`tss`** (Geminated)
 *   Type `tš` ──> **`tš`** | Type `tšš` ──> **`tšš`** (Geminated)
