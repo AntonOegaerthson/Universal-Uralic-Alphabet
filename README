@@ -26,20 +26,20 @@ Length is represented universally by **doubling the character** (`aa`, `ää`, `
 | Vowel | IPA | Unicode Name | Hex Code | Regional / Language Context |
 | :---: | :---: | :--- | :---: | :--- |
 | **ä** | [æ] | LATIN SMALL LETTER A WITH DIAERESIS | `U+00E4` | Near-open front unrounded (Finnish, Moksha, Nenets, ) |
-| **ö** | [ø] | LATIN SMALL LETTER O WITH DIAERESIS | `U+00F6` | Mid-front rounded (Finnish, Estonian, Hungarian, Mari `ӧ`, Permic `ӧ` (Value varies for Permic `ӧ`, but can be [ɘ] or [ɵ], and the rounded/weakly rounded and close-mid nature is best represented by ö)) |
-| **ü** | [y] | LATIN SMALL LETTER U WITH DIAERESIS | `U+00FC` | Close front rounded (Estonian, Hungarian, Mari El `ӱ`, can be represented by the letter `y` if preferred, since Finnish uses `y`) |
-| **ə** | [ə] | LATIN SMALL LETTER SCHWA | `U+019F` | Central schwa (Mari El `ы`, Khanty,  Nenets) |
-| **õ** | [ɯ] | LATIN SMALL LETTER O WITH TILDE | `U+00F5` | Close back unrounded (Permic `ы`, Estonian, Livonian) |
+| **ö** | [ø] | LATIN SMALL LETTER O WITH DIAERESIS | `U+00F6` | Mid-front rounded (Finnish, Estonian, Hungarian, Mari `ö`, Permic `ö` (Value varies for Permic `ö`, but can be [ɘ] or [ɵ], and the rounded/weakly rounded and close-mid nature is best represented by ö)) |
+| **ü** | [y] | LATIN SMALL LETTER U WITH DIAERESIS | `U+00FC` | Close front rounded (Estonian, Hungarian, Mari El `ü`, can be represented by the letter `y` if preferred, since Finnish uses `y`) |
+| **ə** | [ə] | LATIN SMALL LETTER SCHWA | `U+019F` | Central schwa (Mari El `y`, Khanty,  Nenets) |
+| **õ** | [ɯ] | LATIN SMALL LETTER O WITH TILDE | `U+00F5` | Close back unrounded (Permic `y`, Estonian, Livonian) |
 | **e** | [e] | LATIN SMALL LETTER E | `U+0065` | Close-mid front unrounded (All Uralic languages) |
 | **i** | [i] | LATIN SMALL LETTER I | `U+0069` | Close front unrounded (All Uralic languages) |
 | **ɛ** | [ɛ] | LATIN SMALL LETTER OPEN E | `U+025B` | Open-mid front unrounded (Khanty `є`, Enets `ԑ`) |
 | **ꞷ** | [ɔ] | LATIN SMALL LETTER OMEGA | `U+A7B7` | Open-mid back rounded (Enets `o`) |
 | **a** |  [a] or [ɑ] | LATIN SMALL LETTER A | `U+0061` | Open central unrounded or Open back unrounded (All Uralic Languages) |
-| **o** |  [o] | LATIN SMALL LETTER O | `U+006F` | Close-mid back unrounded (All Uralic Languages, Enets `о̂`) |
+| **o** |  [o] | LATIN SMALL LETTER O | `U+006F` | Close-mid back unrounded (All Uralic Languages, Enets `ô`) |
 | **u** |  [u] | LATIN SMALL LETTER U | `U+0075` | Close back unrounded (All Uralic Languages) |
 ### 2. Consonants & Fricative Stability
-*   **`h`** (`U+0068`): Strictly the breathy *voiceless glottal fricative* [h] (Hungarian *ház*).
-*   **`x`** (`U+0078`): Strictly the scraping *voiceless velar fricative* [x] (Khanty *хоот*, Moksha *кохва*).
+*   **`h`** (`U+0068`): Strictly the breathy *voiceless glottal fricative* [h] (Hungarian *haaz*).
+*   **`x`** (`U+0078`): Strictly the scraping *voiceless velar fricative* [x] (Khanty *xoot*, Moksha *koxva*).
 *   **`ł`** (`U+0142`): Strictly the *voiceless alveolar lateral fricative* [ɬ] (Forest Nenets `*r` mutation).
 ### 3. Combining Diacritics (The Stacking Engine)
 Diacritics are stacked sequentially *after* the base consonant letter.
@@ -111,59 +111,61 @@ Proof of structural clarity across families using the UUA standard.
 | **Lule Sami** | *tjalmme* | `tšalmme` | — |
 | **Inari Sami** | *čalme* | `tšalme` | — |
 | **Skolt Sami** | *čâʹlmm* | `tšȧĺmm` | — |
-| **Akkala Sami** | чилльм or челльм | `tšiĺĺm` or `tšeĺĺm` | — |
-| **Kildin Sami** | чалльм or ча̄лльм | `tšaĺĺm` or `tšaaĺĺm` | — |
-| **Ter Sami** | чалльмэ | `tšaĺĺme` | — |
+| **Akkala Sami** | čilľm or čelľm | `tšiĺĺm` or `tšeĺĺm` | — |
+| **Kildin Sami** | čalľm or čaalľm | `tšaĺĺm` or `tšaaĺĺm` | — |
+| **Ter Sami** | čalľme | `tšaĺĺme` | — |
 | **Proto-Mari** | *šĭńća* | `šeńt́śa` | `ˈʃenʲtʲsʲa` |
-| **Eastern-Mari** | шинча | `šint́śa` | `ʃinˈt͡ɕɑ` |
-| **North-Western Mari** | шӹнцӓ | `sə̈ntsä` | — |
-| **Western Mari** | сӹнзӓ | `sə̈nzä` | — |
+| **Eastern-Mari** | šinča | `šint́śa` | `ʃinˈt͡ɕɑ` |
+| **North-Western Mari** | šӹncӓ | `sə̈ntsä` | — |
+| **Western Mari** | sӹnzӓ | `sə̈nzä` | — |
 | **Proto-Permic** | *śin* | `śin` | — |
-| **Komi-Zyrian** | син | `śin` | `ˈɕin` |
-| **Komi-Permyak** | син | `śin` | `ˈɕin` |
-| **Komi-Yazva** | син | `śin` | `ˈɕin` |
-| **Udmurt** | син | `śin` | `ˈɕin` |
+| **Komi-Zyrian** | sin | `śin` | `ˈɕin` |
+| **Komi-Permyak** | sin | `śin` | `ˈɕin` |
+| **Komi-Yazva** | sin | `śin` | `ˈɕin` |
+| **Udmurt** | sin | `śin` | `ˈɕin` |
 | **Proto-Mordvinic** | *śeľmə* | `śeľmə` | — |
-| **Moksha** | Сельме | `Śeĺmä` | — |
-| **Erzya** | Сельме or Сӓльме | `Śeĺme` or `Śäĺme` | — |
+| **Moksha** | Seľme | `Śeĺmä` | — |
+| **Erzya** | Seľme or Sӓľme | `Śeĺme` or `Śäĺme` | — |
 | **Hungarian** | *szem* | `sem` | — |
 | **Proto-Khanty** | säm | `säm` | `ˈsäm` |
-| **Northern-Khanty (Kazym)** | сєм | `sɛm` | `ˈsɛm` |
-| **Eastern-Khanty (Surgut)** | сӓм | `sɛm` | `ˈsɛm` |
-| **Eastern-Khanty (Vakh)** | сэм | `sem` | `ˈsem` |
-| **Eastern-Khanty (Vasyugan)** | сем | `śem` | `ˈsʲem` |
-| **Northern Mansi** | сам | `sam` | `ˈsam` |
-| **Eastern Mansi (Upper Konda)** | сям | `śam` | — |
-| **Eastern Mansi (Yukonda)** | сӓм | `säm` | — |
+| **Northern-Khanty (Kazym)** | sєm | `sɛm` | `ˈsɛm` |
+| **Eastern-Khanty (Surgut)** | sӓm | `sɛm` | `ˈsɛm` |
+| **Eastern-Khanty (Vakh)** | sem | `sem` | `ˈsem` |
+| **Eastern-Khanty (Vasyugan)** | sem | `śem` | `ˈsʲem` |
+| **Northern Mansi** | sam | `sam` | `ˈsam` |
+| **Eastern Mansi (Upper Konda)** | śam | `śam` | — |
+| **Eastern Mansi (Yukonda)** | sӓm | `säm` | — |
 | **Western Mansi** | *šäm* | `šäm` | `ˈʃæm` |
 | **Southern Mansi (Tavda)** | *šäm* | `šäm` | `ˈʃæm` |
 | **Proto-Samoyedic** | *səjmä* | `səjmä` | — |
-| **Nganasan** | сеймы | `śejmɨ` | — |
-| **Forest Enets** | сэй | `sej` | — |
-| **Tundra Enets** | сэи | `sei` | — |
-| **Forest Nenets** | хӭм | `xäm` | — |
-| **Tundra Nenets** | сэв | `säwə` | — |
+| **Nganasan** | sejmy | `śejmɨ` | — |
+| **Forest Enets** | sej | `sej` | — |
+| **Tundra Enets** | sei | `sei` | — |
+| **Forest Nenets** | xӭm | `xäm` | — |
+| **Tundra Nenets** | sev | `säwə` | — |
 | **Proto-Selkup** | sajə | `sajə` | — |
-| **Northern Selkup** | сайы | `sajɨ` | — |
-| **Southern Selkup (Narym)** | хай | `xaj` | — |
-| **Southern Selkup (Upper Ob)** | сэй | `sej` | — |
-| **Kamassian** | сима | `sima` | — |
-| **Mator** | сима | `sima` | — |
+| **Northern Selkup** | sajy | `sajɨ` | — |
+| **Southern Selkup (Narym)** | xaj | `xaj` | — |
+| **Southern Selkup (Upper Ob)** | sej | `sej` | — |
+| **Kamassian** | sima | `sima` | — |
+| **Mator** | sima | `sima` | — |
 ### Concept: Heart & Grammar (Proto-Uralic *śüdäme*)
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA / Notes |
 | :--- | :--- | :--- | :--- |
 | **Proto-Uralic** | *śüdäme* | `śüdäme` | Ancestral reconstruction |
 | **Finnish** | *sydän* (stem: *sydäme-*) | `südän` | |
 | **Estonian** | *süda* (stem: *südame-*) | `süda` | |
-| **Moksha** | Седи | `Śəd́i` | |
-| **Erzya** | Седей | `Śəd́ej` | |
-| **Komi-Zyryan** | Сьӧлӧм | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
-| **Komi-Permyak** | Сьӧлӧм | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
-| **Komi-Yazva** | Сьӧлөм | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
-| **Udmurt** | Сюлэм | `Śuləm` | — |
-| **Hungarian** | *szív* | `siiv` | Long vowel via UUA doubling |
-| **Khanty** | хулэм | `xuləm` | Uses central schwa `ə` |
-| **Mansi** | шим | `šim` | — |
+| **Moksha** | Sedi | `Śəd́i` | |
+| **Erzya** | Sedej | `Śəd́ej` | |
+
+| **Proto-Permic śulem
+| **Komi-Zyryan** | Śölöm | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
+| **Komi-Permyak** | Śölöm | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
+| **Komi-Yazva** | Śölöm | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
+| **Udmurt** | Śulem | `Śulem` | — |
+| **Hungarian** | *sziiv* | `siiv` | Long vowel via UUA doubling |
+| **Khanty** | xulem | `xuləm` | Uses central schwa `ə` |
+| **Mansi** | šim | `šim` | — |
 ---
 
 ## 📱 Mobile Keyboard Interaction Layout (iOS / Android)
