@@ -74,7 +74,6 @@ Turns the underutilized Semicolon (**`;`**) and Backtick (**`` ` ``**) into "Dea
 | **`` ` ``** *(Voicelessness)* | `r` | **`r̥`** | Voiceless Sonorant |
 | **`;`** then **`` ` ``** | `l` | **`ĺ̥`** | Voiceless-Palatalized Sonorant |
 | **`;`** *(Palatalization)* | `'` | **`ɂ̃`** | Nasalized Glottal Stop |
-
 ### Affricate Matrix Macros (Makes it easier to understand affricates, undoes Slavic c being used for ts, removes the Slavic element, making it uniquely Uralic)
 *   Type `ts` ──> **`ts`** | Type `tss` ──> **`tss`** (Geminated)
 *   Type `tš` ──> **`tš`** | Type `tšš` ──> **`tšš`** (Geminated)
@@ -151,7 +150,6 @@ Proof of structural clarity across families using the UUA standard.
 | **Kamassian** | сима | `sima` | — |
 | **Mator** | сима | `sima` | — |
 ### Concept: Heart & Grammar (Proto-Uralic *śüdäme*)
-
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA / Notes |
 | :--- | :--- | :--- | :--- |
 | **Proto-Uralic** | *śüdäme* | `śüdäme` | Ancestral reconstruction |
