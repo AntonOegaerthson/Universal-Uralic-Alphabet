@@ -37,8 +37,6 @@ Length is represented universally by **doubling the character** (`aa`, `ää`, `
 | **a** |  [a] or [ɑ] | LATIN SMALL LETTER A | `U+0061` | Open central unrounded or Open back unrounded (All Uralic Languages) |
 | **o** |  [o] | LATIN SMALL LETTER O | `U+006F` | Close-mid back unrounded (All Uralic Languages, Enets `о̂`) |
 | **u** |  [u] | LATIN SMALL LETTER U | `U+0075` | Close back unrounded (All Uralic Languages) |
-
-
 ### 2. Consonants & Fricative Stability
 *   **`h`** (`U+0068`): Strictly the breathy *voiceless glottal fricative* [h] (Hungarian *ház*).
 *   **`x`** (`U+0078`): Strictly the scraping *voiceless velar fricative* [x] (Khanty *хоот*, Moksha *кохва*).
@@ -152,7 +150,6 @@ Proof of structural clarity across families using the UUA standard.
 | **Southern Selkup (Upper Ob)** | сэй | `sej` | — |
 | **Kamassian** | сима | `sima` | — |
 | **Mator** | сима | `sima` | — |
-
 ### Concept: Heart & Grammar (Proto-Uralic *śüdäme*)
 
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA / Notes |
@@ -169,7 +166,6 @@ Proof of structural clarity across families using the UUA standard.
 | **Hungarian** | *szív* | `siiv` | Long vowel via UUA doubling |
 | **Khanty** | хулэм | `xuləm` | Uses central schwa `ə` |
 | **Mansi** | шим | `šim` | — |
-
 ---
 
 ## 📱 Mobile Keyboard Interaction Layout (iOS / Android)
