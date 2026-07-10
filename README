@@ -43,7 +43,6 @@ Length is represented universally by **doubling the character** (`aa`, `ää`, `
 *   **`h`** (`U+0068`): Strictly the breathy *voiceless glottal fricative* [h] (Hungarian *ház*).
 *   **`x`** (`U+0078`): Strictly the scraping *voiceless velar fricative* [x] (Khanty *хоот*, Moksha *кохва*).
 *   **`ł`** (`U+0142`): Strictly the *voiceless alveolar lateral fricative* [ɬ] (Forest Nenets `*r` mutation).
-
 ### 3. Combining Diacritics (The Stacking Engine)
 Diacritics are stacked sequentially *after* the base consonant letter.
 
