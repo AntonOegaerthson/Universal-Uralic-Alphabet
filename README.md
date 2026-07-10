@@ -103,6 +103,7 @@ Proof of structural clarity across families using the UUA standard.
 | **Veps** | *silʹm* | `siĺm` | `ˈsilʲm` |
 | **Võro** | *silm* | `silm` | `ˈsilm` |
 | **Votic** | *silme* | `śilmä` or `silmä` | `ˈsʲilmæ` or `ˈsilmæ` |
+| — | — | — | — | — |
 | **Proto-Sami** | *čëlmē* | `tšɘlmee` | `ˈt͡ʃɘlmeː` |
 | **Northern Sami** | *čalbmi* | `tšalbmi` | `ˈt͡ʃalbmi` |
 | **Northern Sami (Kautokeino)** | *čalbmi* | `tšallpmii` | `ˈt͡ʃalːpmiː` |
@@ -115,15 +116,18 @@ Proof of structural clarity across families using the UUA standard.
 | **Akkala Sami** | чилльм or челльм | `tšiĺĺm` or `tšeĺĺm` | — |
 | **Kildin Sami** | чалльм or ча̄лльм | `tšaĺĺm` or `tšaaĺĺm` | — |
 | **Ter Sami** | чалльмэ | `tšaĺĺme` | — |
+| — | — | — | — | — |
 | **Proto-Mari** | *šĭńća* | `šeńt́śa` | `ˈʃenʲtʲsʲa` |
 | **Eastern-Mari** | шинча | `šint́śa` | `ʃinˈt͡ɕɑ` |
 | **North-Western Mari** | шӹнцӓ | `sə̈ntsä` | — |
 | **Western Mari** | сӹнзӓ | `sə̈nzä` | — |
+| — | — | — | — | — |
 | **Proto-Permic** | *śin* | `śin` | — |
 | **Komi-Zyrian** | син | `śin` | `ˈɕin` |
 | **Komi-Permyak** | син | `śin` | `ˈɕin` |
 | **Komi-Yazva** | син | `śin` | `ˈɕin` |
 | **Udmurt** | син | `śin` | `ˈɕin` |
+| — | — | — | — | — |
 | **Proto-Mordvinic** | *śeľmə* | `śeľmə` | — |
 | **Moksha** | сельме  | `Śeĺmä` | — |
 | **Erzya** | сельме  or сӓльме | `Śeĺme` or `Śäĺme` | — |
@@ -138,6 +142,7 @@ Proof of structural clarity across families using the UUA standard.
 | **Eastern Mansi (Yukonda)** | сӓм | `säm` | — |
 | **Western Mansi** | *šäм* | `šäm` | `ˈʃæm` |
 | **Southern Mansi (Tavda)** | *šäм* | `šäm` | `ˈʃæm` |
+| — | — | — | — | — |
 | **Proto-Samoyedic** | *səjmä* | `səjmä` | — |
 | **Nganasan** | сеймы | `śejmɨ` | — |
 | **Forest Enets** | сэй | `sej` | — |
