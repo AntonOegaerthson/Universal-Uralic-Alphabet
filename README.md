@@ -134,39 +134,51 @@ Proof of structural clarity across families using the UUA standard.
 | **Eastern-Khanty (Vakh)** | сeм | `sem` | `ˈsem` |
 | **Eastern-Khanty (Vasyugan)** | сeм | `śem` | `ˈsʲem` |
 | **Northern Mansi** | сeм | `sam` | `ˈsam` |
-| **Eastern Mansi (Upper Konda)** | śaм | `śam` | — |
+| **Eastern Mansi (Upper Konda)** | сям | `śam` | — |
 | **Eastern Mansi (Yukonda)** | сӓм | `säm` | — |
 | **Western Mansi** | *šäм* | `šäm` | `ˈʃæm` |
 | **Southern Mansi (Tavda)** | *šäм* | `šäm` | `ˈʃæm` |
 | **Proto-Samoyedic** | *səjmä* | `səjmä` | — |
-| **Nganasan** | sejmy | `śejmɨ` | — |
-| **Forest Enets** | sej | `sej` | — |
-| **Tundra Enets** | sei | `sei` | — |
-| **Forest Nenets** | xӭm | `xäm` | — |
-| **Tundra Nenets** | sev | `säwə` | — |
+| **Nganasan** | сеймы | `śejmɨ` | — |
+| **Forest Enets** | сэй | `sej` | — |
+| **Tundra Enets** | сэи | `sei` | — |
+| **Forest Nenets** | хӭм | `xäm` | — |
+| **Tundra Nenets** | сэв | `säwə` | — |
 | **Proto-Selkup** | sajə | `sajə` | — |
-| **Northern Selkup** | sajy | `sajɨ` | — |
-| **Southern Selkup (Narym)** | xaj | `xaj` | — |
-| **Southern Selkup (Upper Ob)** | sej | `sej` | — |
-| **Kamassian** | sima | `sima` | — |
-| **Mator** | sima | `sima` | — |
+| **Northern Selkup** | сайы | `sajɨ` | — |
+| **Southern Selkup (Narym)** | хай | `xaj` | — |
+| **Southern Selkup (Upper Ob)** | сэй | `sej` | — |
+| **Kamassian** | сима | `sima` | — |
+| **Mator** | сима | `sima` | — |
 ### Concept: Heart & Grammar (Proto-Uralic *śüdäme*)
-| Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA / Notes |
-| :--- | :--- | :--- | :--- |
-| **Proto-Uralic** | *śüdäme* | `śüdäme` | Ancestral reconstruction |
-| **Finnish** | *sydän* (stem: *sydäme-*) | `südän` | |
-| **Estonian** | *süda* (stem: *südame-*) | `süda` | |
+| Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Proto-Uralic** | *śüdäme* | `śüdäme` | `ˈsʲydæme` or `ˈɕydæme` | Ancestral reconstruction |
+| **Proto-Finnic** | *südän* | `südän` |  `ˈsydæn` | Ancestral Reconstruction |
+| **Finnish** | *sydän*  | `südän` | `ˈsydæn` | (stem: *sydäme-*) | 
+| **Estonian** | *süda*  | `süda` | `ˈsydæ` | (stem: *südame-*)  |
+| **Ingrian** | *syän* | `süän` | `ˈsyæn` | |
+| **North Karelian** | *šyväin* or *šytän* | `šüväin` or `šütän` |
+| **South Karelian** | *šiämi* | `šiämi` | `ˈʃiæmi`| |
+| **Livonian** | *sidām* | `sidaam` |  `ˈsidaːm` | |
+| **Livvi** | *syväin* | `süväin` | `ˈsyvæin` | |
+| **Ludian** | *südäm* | `südäm` | `ˈsydæm` | |
+| **Veps** | *südäin* | `südäin` | `ˈsydæin` | |
+| **Võro** | *süä* | `süä` | `ˈsyæ` | |
+| **Votic** | *süä* | `süä` | `ˈsyæ` | |
+| — | — | — | — | — |
+| **Proto-Mordvinic** | *śeľmə* | `śeĺmə` | `ˈsʲelʲmə` | `` | 
 | **Moksha** | Sedi | `Śəd́i` | |
 | **Erzya** | Sedej | `Śəd́ej` | |
-
-| **Proto-Permic** | śɔ̈läm  |
-| **Komi-Zyryan** | Śölöm | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
-| **Komi-Permyak** | Śölöm | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
-| **Komi-Yazva** | Śölöm | `Śölɵm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
+| **Proto-Permic** | śɔ̈läm  | `śꞷ̈läm` or `śɔ̈läm` |   | |
+| **Komi-Zyryan** | сьӧлӧм | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
+| **Komi-Permyak** | сьӧлӧм | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
+| **Komi-Yazva** | сьӧлөм | `Śölɵm` | `ˈɕɵlɤ̹̈m` |
 | **Udmurt** | Śulem | `Śulem` | — |
 | **Hungarian** | *sziiv* | `siiv` | Long vowel via UUA doubling |
 | **Khanty** | xulem | `xuləm` | Uses central schwa `ə` |
 | **Mansi** | šim | `šim` | — |
+
 ---
 
 ## 📱 Mobile Keyboard Interaction Layout (iOS / Android)
