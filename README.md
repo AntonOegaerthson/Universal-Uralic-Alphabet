@@ -172,16 +172,21 @@ Proof of structural clarity across families using the UUA standard.
 | **Võro** | *süä* | `süä` | `ˈsyæ` | |
 | **Votic** | *süä* | `süä` | `ˈsyæ` | |
 | — | — | — | — | — |
-| **Proto-Mordvinic** | *śeľmə* | `śeĺmə` | `ˈsʲelʲmə` | `` | 
-| **Moksha** | Sedi | `Śəd́i` | |
-| **Erzya** | Sedej | `Śəd́ej` | |
-| **Proto-Permic** | śɔ̈läm  | `śꞷ̈läm` or `śɔ̈läm` |   | |
-| **Komi-Zyryan** | сьӧлӧм | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
-| **Komi-Permyak** | сьӧлӧм | `Śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
-| **Komi-Yazva** | сьӧлөм | `Śölɵm` | `ˈɕɵlɤ̹̈m` |
-| **Udmurt** | Śulem | `Śulem` | — |
-| **Hungarian** | *sziiv* | `siiv` | Long vowel via UUA doubling |
-| **Khanty** | xulem | `xuləm` | Uses central schwa `ə` |
+| **Proto-Mordvinic** | *śeďəj* | `śed́əj` | `ˈsʲedʲəj` | `` | 
+| **Moksha** | седи | `śed́i` | `` |
+| **Erzya** | седей  | `śed́ej` | `` |
+| **Erzya** | седеҥ  | `śed́eŋ` | `` |
+| **Erzya** | сӓдей   | `säd́ej` | `` |
+| — | — | — | — | — |
+| **Proto-Permic** | śɔ̈läm  | `śꞷ̈läm` or `śɔ̈läm` | `ˈɕœlæm`  | |
+| **Komi-Zyryan** | сьӧлӧм | `śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
+| **Komi-Permyak** | сьӧлӧм | `śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
+| **Komi-Yazva** | сьӧлөм | `śölɵm` | `ˈɕɵlɤ̹̈m` |
+| **Udmurt** | сюлэм | `śulem` | `ɕulem` |
+| — | — | — | — | — |
+| **Hungarian** | *szív* | `siiv` | Long vowel via UUA doubling |
+
+| **Northern Khanty** | xulem | `xuləm` | Uses central schwa `ə` |
 | **Mansi** | šim | `šim` | — |
 
 ---
