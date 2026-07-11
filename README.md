@@ -159,7 +159,7 @@ Proof of structural clarity across families using the UUA standard.
 | **Kamassian** | сима | `sima` | — | |
 | **Mator** | сима | `sima` | — | |
 
-### Concept: Heart & Grammar (Proto-Uralic *śüdäme*)
+### Concept: Heart (Proto-Uralic *śüdäme*)
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | **Proto-Uralic** | *śüdäme* | `śüdäme` | `ˈsʲydæme` or `ˈɕydæme` | Ancestral reconstruction |
