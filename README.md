@@ -37,7 +37,8 @@ Length is represented universally by **doubling the character** (`aa`, `ää`, `
 | **a** | [a] or [ɑ] | LATIN SMALL LETTER A | `U+0061` | Open central unrounded or Open back unrounded (All Uralic Languages) |
 | **o** | [o] | LATIN SMALL LETTER O | `U+006F` | Close-mid back unrounded (All Uralic Languages, Enets `ô`) |
 | **u** | [u] | LATIN SMALL LETTER U | `U+0075` | Close back unrounded (All Uralic Languages) |
-| **ө** | [ɤ̹̈] | LATIN SMALL LETTER BARRED O | `U+0275` | CLose-mid back slightly centralized weakly rounded (Komi-Yazva) Used as the "central counterpart" to a present "ö", appearing between ö and o.) |
+| **ө** | [ɤ̹̈] | LATIN SMALL LETTER BARRED O | `U+0275` | Close-mid back slightly centralized weakly rounded (Komi-Yazva) Used as the "central counterpart" to a present "ö", appearing between ö and o.) |
+| **ɘ** | [ɘ] | LATIN SMALL LETTER REVERSED E | `U+0258` | Close-mid central unrounded vowel (Eastern Khanty ӛ. Skolt Sami õ.) |
 
 ### 2. Consonants & Fricative Stability
 *   **`h`** (`U+0068`): Strictly the breathy *voiceless glottal fricative* [h] (Hungarian *haaz*).
@@ -177,9 +178,9 @@ Proof of structural clarity across families using the UUA standard.
 | **Võro** | *süä* | `süä` | `ˈsyæ` | |
 | **Votic** | *süä* | `süä` | `ˈsyæ` | |
 | Samic | — | — | — | — |
-| **Proto-Samic** | *čëδēm* | `tšõðeem` | `ˈtʃɤðeem` | Proto-Saamic ë has value of [ɤ] |
+| **Proto-Samic** | čëδēm | `tšõðeem` | `ˈtʃɤðeem` | Proto-Saamic ë has value of [ɤ] |
 | **Skolt Sami** | — | — | — | — |
-| **Proto-Mordvinic** | *śeďəj* | `śed́əj` | `ˈsʲedʲəj` | `` | 
+| **Proto-Mordvinic** | śeďəj | `śed́əj` | `ˈsʲedʲəj` | `` | 
 | **Moksha** | седи | `śed́i` | `ˈsʲedʲi` |
 | **Erzya** | седей  | `śed́ej` | `ˈsʲedʲej` |
 | **Erzya** | седеҥ  | `śed́eŋ` | `ˈsʲedʲeŋ` |
@@ -191,19 +192,30 @@ Proof of structural clarity across families using the UUA standard.
 | **Komi-Yazva** | сьӧлөм | `śölɵm` | `ˈɕɵlɤ̹̈m` |
 | **Udmurt** | сюлэм | `śulem` | `ɕulem` |
 | Mari | — | — | — | — |
-| **Proto-Mari** | *šü̆m* | `šöm` | `ˈʃøm` | ü̆ is close-mid front rounded vowel in Proto-Mari for Wiktionary |
+| **Proto-Mari** | šü̆m | `šöm` | `ˈʃøm` | ü̆ is close-mid front rounded vowel in Proto-Mari for Wiktionary |
 | **Eastern Mari** | шӱм | `šüm` | `ˈʃym` |
 | **Western Mari** | шӱм | `šüm` | `ˈʃym` |
 | Ugric | — | — | — | — |
+| **Proto-Ugric** | *sim* | `sim`  | `ˈsim`  | I hypothetically reconstructed this. All proto-Ugric langauges and even modern Hungarian have a close fron unrounded vowel, and both proto-Khanty and proto-Mansi have voiced bilabial nasal m. I am uncertain of the length of the close front unrounded vowel. m might have become v over thousands of yearşin Hungarian, but I am uncertain of how this occurs or could have occured. Take this with a grain of salt, as I am an amateur. | 
 | **Hungarian** | *szív* | `siiv` | `ˈsiːv` | Long vowel via UUA doubling |
-| **Proto-Khanty** | *sĭm* | — | — | — |
-| **Northern Khanty** | сӑм | `săm` | — | Kazym |
-| **Northern Khanty** | сӑм | `săm` | — | Middle Ob |
-| **Northern Khanty** | сам | `sam` | — | Shuryshkar |
-| **Eastern Khanty** | сәм | | | Surgut |
-| **Eastern Khanty** | сӛм |  | | Vakh |
-| **Eastern Khanty** |  | | | Yugan |
-| — | — | — | — | — |
+| **Proto-Khanty** | sĭm | `sĭm` | `ˈsĭm` | Reconstructed (I estimated the IPA value) |
+| **Northern Khanty** | сӑм | `săm` |  `ˈsăm` | Kazym (I estimated the IPA value) |
+| **Northern Khanty** | сӑм | `săm` |  `ˈsăm` | Middle Ob (I estimated the IPA value) |
+| **Northern Khanty** | сам | `sam` |  `ˈsam` | Shuryshkar (I estimated the IPA value) |
+| **Eastern Khanty** | сәм | `səm` |  `ˈsəm` | Surgut (I estimated the IPA value) |
+| **Eastern Khanty** | сӛм |  `sɘm`  |  `ˈsɘm` | Vakh (I estimated the IPA value) |
+| **Eastern Khanty** |  сәм | `səm` |  `ˈsəm` | Yugan (I estimated the IPA value) |
+| **Southern Khanty** | сәм | `səm` | `ˈsəm` | Konda (I estimated the IPA value) |
+| **Proto-Mansi** | šĭm | `šĭm` | `ˈʃĭm` | Reconstructed (I estimated the IPA value) |
+| **Northern-Mansi** | сым | `sim` | `ˈsim` | ы's IPA value varies according to the source. Northern Mansi is the sole surviving Mansi language|
+| Samoyedic | — | — | — | — |
+| **Proto-Samoyedic** | säjə | `säjə` | `ˈsæjə` | Reconstructed (I estimated the IPA value) |
+| **Nganasan** | сәә | `səə` | `ˈsəː` | |
+| Enets–Nenets |
+| **Proto-Enets–Nenets** | sej | `sej` | `ˈsej` | I hypothesized this reconstruction, given how all Enets and Nenets languages have some mid front unrounded vowel between s and j|
+| **Forest Enets** | сԑй | `sɛj` | `ˈsɛj` | Extremely endangered. |
+| **Forest Nenets** | шей | `š́ej` | `ˈʃʲej` |  |
+| **Tundra Nenets** | сей | `śejə` | `sʲej(ə̥)` |
 
 ---
 
