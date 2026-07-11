@@ -158,6 +158,7 @@ Proof of structural clarity across families using the UUA standard.
 | **Southern Selkup (Upper Ob)** | сэй | `sej` | — | |
 | **Kamassian** | сима | `sima` | — | |
 | **Mator** | сима | `sima` | — | |
+
 ### Concept: Heart & Grammar (Proto-Uralic *śüdäme*)
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA | Notes |
 | :--- | :--- | :--- | :--- | :--- |
