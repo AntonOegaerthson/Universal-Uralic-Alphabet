@@ -91,73 +91,73 @@ Proof of structural clarity across families using the UUA standard.
 
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA | Notes |
 | :--- | :--- | :--- | :--- |
-| **Proto-Uralic** | *śilmä* | `śilmä` | `ˈɕilmæ` or `sʲilmæ` |
-| **Proto-Finnic** | *silmä* | `silmä` | `ˈsilmæ` |
-| **Finnish** | *silmä* | `silmä` | `ˈsilmæ` |
-| **Estonian** | *silm* | `silm` | `ˈsilm` |
-| **Ingrian (Ala-Laukaa)** | *silmä* | `silmä` | `ˈsilmæ` |
-| **Ingrian (Soikkola)** | *silmä* | `siĺmä` | `ˈsilʲmæ` |
-| **North Karelian** | *šilmä* | `šilmä` | `ˈʃilmæ` |
-| **South Karelian** | *šilmä* | `šilmä` | `ˈʃilmæ` |
-| **Livonian** | *sīlma* | `siilma` | `ˈsiːlmɑ` |
-| **Livvi** | *silmy* or *silmü* | `silmy` or `silmü` | `ˈsilmy` |
-| **Ludian (Mundärv)** | *šilm* / *silʹm* | `šilm` / `siĺm` | `ˈʃilm` |
-| **Veps** | *silʹm* | `siĺm` | `ˈsilʲm` |
-| **Võro** | *silm* | `silm` | `ˈsilm` |
-| **Votic** | *silme* | `śilmä` or `silmä` | `ˈsʲilmæ` or `ˈsilmæ` |
+| **Proto-Uralic** | *śilmä* | `śilmä` | `ˈɕilmæ` or `sʲilmæ` | |
+| **Proto-Finnic** | *silmä* | `silmä` | `ˈsilmæ` | |
+| **Finnish** | *silmä* | `silmä` | `ˈsilmæ` | |
+| **Estonian** | *silm* | `silm` | `ˈsilm` | |
+| **Ingrian (Ala-Laukaa)** | *silmä* | `silmä` | `ˈsilmæ` | |
+| **Ingrian (Soikkola)** | *silmä* | `siĺmä` | `ˈsilʲmæ` | |
+| **North Karelian** | *šilmä* | `šilmä` | `ˈʃilmæ` | |
+| **South Karelian** | *šilmä* | `šilmä` | `ˈʃilmæ` | |
+| **Livonian** | *sīlma* | `siilma` | `ˈsiːlmɑ` | |
+| **Livvi** | *silmy* or *silmü* | `silmy` or `silmü` | `ˈsilmy` | |
+| **Ludian (Mundärv)** | *šilm* / *silʹm* | `šilm` / `siĺm` | `ˈʃilm` | |
+| **Veps** | *silʹm* | `siĺm` | `ˈsilʲm` | |
+| **Võro** | *silm* | `silm` | `ˈsilm` | |
+| **Votic** | *silme* | `śilmä` or `silmä` | `ˈsʲilmæ` or `ˈsilmæ` | |
 | — | — | — | — | — |
-| **Proto-Sami** | *čëlmē* | `tšɘlmee` | `ˈt͡ʃɘlmeː` |
-| **Northern Sami** | *čalbmi* | `tšalbmi` | `ˈt͡ʃalbmi` |
-| **Northern Sami (Kautokeino)** | *čalbmi* | `tšallpmii` | `ˈt͡ʃalːpmiː` |
-| **Southern Sami** | *tjelmie* | `tšelmie` | — |
-| **Ume Sami** | *tjalbmie* | `tšalbmie` | — |
-| **Pite Sami** | *tjalbme* | `tšalbme` | — |
-| **Lule Sami** | *tjalmme* | `tšalmme` | — |
-| **Inari Sami** | *čalme* | `tšalme` | — |
-| **Skolt Sami** | *čâʹlmm* | `tšȧĺmm` | — |
-| **Akkala Sami** | чилльм or челльм | `tšiĺĺm` or `tšeĺĺm` | — |
-| **Kildin Sami** | чалльм or ча̄лльм | `tšaĺĺm` or `tšaaĺĺm` | — |
-| **Ter Sami** | чалльмэ | `tšaĺĺme` | — |
+| **Proto-Sami** | *čëlmē* | `tšɘlmee` | `ˈt͡ʃɘlmeː` | |
+| **Northern Sami** | *čalbmi* | `tšalbmi` | `ˈt͡ʃalbmi` | |
+| **Northern Sami (Kautokeino)** | *čalbmi* | `tšallpmii` | `ˈt͡ʃalːpmiː` | |
+| **Southern Sami** | *tjelmie* | `tšelmie` | — | |
+| **Ume Sami** | *tjalbmie* | `tšalbmie` | — | |
+| **Pite Sami** | *tjalbme* | `tšalbme` | — | |
+| **Lule Sami** | *tjalmme* | `tšalmme` | — | |
+| **Inari Sami** | *čalme* | `tšalme` | — | |
+| **Skolt Sami** | *čâʹlmm* | `tšȧĺmm` | — | |
+| **Akkala Sami** | чилльм or челльм | `tšiĺĺm` or `tšeĺĺm` | — | |
+| **Kildin Sami** | чалльм or ча̄лльм | `tšaĺĺm` or `tšaaĺĺm` | — | |
+| **Ter Sami** | чалльмэ | `tšaĺĺme` | — | |
 | — | — | — | — | — |
 | **Proto-Mari** | *šĭńća* | `šeńt́śa` | `ˈʃenʲtʲsʲa` |  ĭ is close-mid front unrounded vowel in Proto-Mari for Wiktionary |
-| **Eastern-Mari** | шинча | `šint́śa` | `ʃinˈt͡ɕɑ` |
-| **North-Western Mari** | шӹнцӓ | `šə̈ntsä` | `ʃə̈ntsä` |
-| **Western Mari** | сӹнзӓ | `sə̈nzä` | — |
+| **Eastern-Mari** | шинча | `šint́śa` | `ʃinˈt͡ɕɑ` | |
+| **North-Western Mari** | шӹнцӓ | `šə̈ntsä` | `ʃə̈ntsä` | |
+| **Western Mari** | сӹнзӓ | `sə̈nzä` | — | |
 | — | — | — | — | — |
-| **Proto-Permic** | *śin* | `śin` | — |
-| **Komi-Zyrian** | син | `śin` | `ˈɕin` |
-| **Komi-Permyak** | син | `śin` | `ˈɕin` |
-| **Komi-Yazva** | син | `śin` | `ˈɕin` |
-| **Udmurt** | син | `śin` | `ˈɕin` |
+| **Proto-Permic** | *śin* | `śin` | — | |
+| **Komi-Zyrian** | син | `śin` | `ˈɕin` | |
+| **Komi-Permyak** | син | `śin` | `ˈɕin` | |
+| **Komi-Yazva** | син | `śin` | `ˈɕin` | |
+| **Udmurt** | син | `śin` | `ˈɕin` | |
 | — | — | — | — | — |
-| **Proto-Mordvinic** | *śeľmə* | `śeľmə` | — |
-| **Moksha** | сельме  | `Śeĺmä` | — |
-| **Erzya** | сельме  or сӓльме | `Śeĺme` or `Śäĺme` | — |
+| **Proto-Mordvinic** | *śeľmə* | `śeľmə` | — | |
+| **Moksha** | сельме  | `Śeĺmä` | — | |
+| **Erzya** | сельме  or сӓльме | `Śeĺme` or `Śäĺme` | — | |
 | — | — | — | — | — |
-| **Hungarian** | *szem* | `sem` | — |
-| **Proto-Khanty** | säm | `säm` | `ˈsäm` | 
-| **Northern-Khanty (Kazym)** | сєм | `sɛm` | `ˈsɛm` |
-| **Eastern-Khanty (Surgut)** | сӓм | `sɛm` | `ˈsɛm` |
-| **Eastern-Khanty (Vakh)** | сeм | `sem` | `ˈsem` |
-| **Eastern-Khanty (Vasyugan)** | сeм | `śem` | `ˈsʲem` |
-| **Northern Mansi** | сeм | `sam` | `ˈsam` |
-| **Eastern Mansi (Upper Konda)** | сям | `śam` | — |
-| **Eastern Mansi (Yukonda)** | сӓм | `säm` | — |
-| **Western Mansi** | *šäм* | `šäm` | `ˈʃæm` |
-| **Southern Mansi (Tavda)** | *šäм* | `šäm` | `ˈʃæm` |
+| **Hungarian** | *szem* | `sem` | — | |
+| **Proto-Khanty** | säm | `säm` | `ˈsäm` |  |
+| **Northern-Khanty (Kazym)** | сєм | `sɛm` | `ˈsɛm` | |
+| **Eastern-Khanty (Surgut)** | сӓм | `sɛm` | `ˈsɛm` | |
+| **Eastern-Khanty (Vakh)** | сeм | `sem` | `ˈsem` | |
+| **Eastern-Khanty (Vasyugan)** | сeм | `śem` | `ˈsʲem` | |
+| **Northern Mansi** | сeм | `sam` | `ˈsam` | |
+| **Eastern Mansi (Upper Konda)** | сям | `śam` | — | |
+| **Eastern Mansi (Yukonda)** | сӓм | `säm` | — | |
+| **Western Mansi** | *šäм* | `šäm` | `ˈʃæm` | |
+| **Southern Mansi (Tavda)** | *šäм* | `šäm` | `ˈʃæm` | |
 | — | — | — | — | — |
 | **Proto-Samoyedic** | *səjmä* | `səjmä` | — |
-| **Nganasan** | сеймы | `śejmɨ` | — |
-| **Forest Enets** | сэй | `sej` | — |
-| **Tundra Enets** | сэи | `sei` | — |
-| **Forest Nenets** | хӭм | `xäm` | — |
-| **Tundra Nenets** | сэв | `säwə` | — |
-| **Proto-Selkup** | sajə | `sajə` | — |
-| **Northern Selkup** | сайы | `sajɨ` | — |
-| **Southern Selkup (Narym)** | хай | `xaj` | — |
-| **Southern Selkup (Upper Ob)** | сэй | `sej` | — |
-| **Kamassian** | сима | `sima` | — |
-| **Mator** | сима | `sima` | — |
+| **Nganasan** | сеймы | `śejmɨ` | — | |
+| **Forest Enets** | сэй | `sej` | — | |
+| **Tundra Enets** | сэи | `sei` | — | |
+| **Forest Nenets** | хӭм | `xäm` | — | |
+| **Tundra Nenets** | сэв | `säwə` | — | |
+| **Proto-Selkup** | sajə | `sajə` | — | |
+| **Northern Selkup** | сайы | `sajɨ` | — | |
+| **Southern Selkup (Narym)** | хай | `xaj` | — | |
+| **Southern Selkup (Upper Ob)** | сэй | `sej` | — | |
+| **Kamassian** | сима | `sima` | — | |
+| **Mator** | сима | `sima` | — | |
 ### Concept: Heart & Grammar (Proto-Uralic *śüdäme*)
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA | Notes |
 | :--- | :--- | :--- | :--- | :--- |
