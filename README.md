@@ -21,7 +21,7 @@ The Universal Uralic Alphabet (UUA) provides a 1:1 relationship between spelling
 ## 🔣 Unicode Core Character Mapping
 
 ### 1. Pure Vowels & Quantity
-Length is represented universally by **doubling the character** (`aa`, `ää`, `əə`). In Ob-Ugric (Khanty/Mansi) systems, a single letter represents a reduced vowel, and a doubled letter represents a full vowel.
+Length is represented universally by **doubling the character** (`aa`, `ää`, `əə`). In Ob-Ugric (Khanty/Mansi) systems, a vowel with a breve diacritic represents a reduced vowel, and a diacriticless letter represents a full vowel.
 
 | Vowel | IPA | Unicode Name | Hex Code | Regional / Language Context |
 | :---: | :---: | :--- | :---: | :--- |
@@ -29,7 +29,7 @@ Length is represented universally by **doubling the character** (`aa`, `ää`, `
 | **ö** | [ø] | LATIN SMALL LETTER O WITH DIAERESIS | `U+00F6` | Mid-front rounded (Finnish, Estonian, Hungarian, Mari `ö`, Permic `ö` (Value varies for Permic `ö`, but can be [ɘ] or [ɵ], and the rounded/weakly rounded and close-mid nature is best represented by ö)) |
 | **ü** | [y] | LATIN SMALL LETTER U WITH DIAERESIS | `U+00FC` | Close front rounded (Estonian, Hungarian, Mari El `ü`, can be represented by the letter `y` if preferred, since Finnish uses `y`) |
 | **ə** | [ə] | LATIN SMALL LETTER SCHWA | `U+019F` | Central schwa (Mari El `y`, Khanty,  Nenets) |
-| **õ** | [ɯ] | LATIN SMALL LETTER O WITH TILDE | `U+00F5` | Close back unrounded (Permic `y`, Estonian, Livonian) |
+| **õ** | [ɯ] or [ɤ] | LATIN SMALL LETTER O WITH TILDE | `U+00F5` | Close back unrounded (Permic `y`, Estonian, Livonian) |
 | **e** | [e] | LATIN SMALL LETTER E | `U+0065` | Close-mid front unrounded (All Uralic languages) |
 | **i** | [i] | LATIN SMALL LETTER I | `U+0069` | Close front unrounded (All Uralic languages) |
 | **ɛ** | [ɛ] | LATIN SMALL LETTER OPEN E | `U+025B` | Open-mid front unrounded (Khanty `є`, Enets `ԑ`) |
@@ -89,7 +89,7 @@ Proof of structural clarity across families using the UUA standard.
 
 ### Concept: Eye (Proto-Uralic *śilmä*)
 
-| Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA |
+| Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA | Notes |
 | :--- | :--- | :--- | :--- |
 | **Proto-Uralic** | *śilmä* | `śilmä` | `ˈɕilmæ` or `sʲilmæ` |
 | **Proto-Finnic** | *silmä* | `silmä` | `ˈsilmæ` |
@@ -119,9 +119,9 @@ Proof of structural clarity across families using the UUA standard.
 | **Kildin Sami** | чалльм or ча̄лльм | `tšaĺĺm` or `tšaaĺĺm` | — |
 | **Ter Sami** | чалльмэ | `tšaĺĺme` | — |
 | — | — | — | — | — |
-| **Proto-Mari** | *šĭńća* | `šeńt́śa` | `ˈʃenʲtʲsʲa` |
+| **Proto-Mari** | *šĭńća* | `šeńt́śa` | `ˈʃenʲtʲsʲa` |  ĭ is close-mid front unrounded vowel in Proto-Mari for Wiktionary |
 | **Eastern-Mari** | шинча | `šint́śa` | `ʃinˈt͡ɕɑ` |
-| **North-Western Mari** | шӹнцӓ | `sə̈ntsä` | — |
+| **North-Western Mari** | шӹнцӓ | `šə̈ntsä` | `ʃə̈ntsä` |
 | **Western Mari** | сӹнзӓ | `sə̈nzä` | — |
 | — | — | — | — | — |
 | **Proto-Permic** | *śin* | `śin` | — |
@@ -133,6 +133,7 @@ Proof of structural clarity across families using the UUA standard.
 | **Proto-Mordvinic** | *śeľmə* | `śeľmə` | — |
 | **Moksha** | сельме  | `Śeĺmä` | — |
 | **Erzya** | сельме  or сӓльме | `Śeĺme` or `Śäĺme` | — |
+| — | — | — | — | — |
 | **Hungarian** | *szem* | `sem` | — |
 | **Proto-Khanty** | säm | `säm` | `ˈsäm` | 
 | **Northern-Khanty (Kazym)** | сєм | `sɛm` | `ˈsɛm` |
@@ -161,6 +162,7 @@ Proof of structural clarity across families using the UUA standard.
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | **Proto-Uralic** | *śüdäme* | `śüdäme` | `ˈsʲydæme` or `ˈɕydæme` | Ancestral reconstruction |
+| Finnic | — | — | — | — |
 | **Proto-Finnic** | *südän* | `südän` |  `ˈsydæn` | Ancestral Reconstruction |
 | **Finnish** | *sydän*  | `südän` | `ˈsydæn` | (stem: *sydäme-*) | 
 | **Estonian** | *süda*  | `süda` | `ˈsydæ` | (stem: *südame-*)  |
@@ -173,23 +175,36 @@ Proof of structural clarity across families using the UUA standard.
 | **Veps** | *südäin* | `südäin` | `ˈsydæin` | |
 | **Võro** | *süä* | `süä` | `ˈsyæ` | |
 | **Votic** | *süä* | `süä` | `ˈsyæ` | |
-| — | — | — | — | — |
+| Samic | — | — | — | — |
+| **Proto-Samic** | *čëδēm* | `tšõðeem` | `ˈtʃɤðeem` | Proto-Saamic ë has value of [ɤ] |
+| **Skolt Sami** | — | — | — | — |
 | **Proto-Mordvinic** | *śeďəj* | `śed́əj` | `ˈsʲedʲəj` | `` | 
-| **Moksha** | седи | `śed́i` | `` |
-| **Erzya** | седей  | `śed́ej` | `` |
-| **Erzya** | седеҥ  | `śed́eŋ` | `` |
-| **Erzya** | сӓдей   | `säd́ej` | `` |
-| — | — | — | — | — |
+| **Moksha** | седи | `śed́i` | `ˈsʲedʲi` |
+| **Erzya** | седей  | `śed́ej` | `ˈsʲedʲej` |
+| **Erzya** | седеҥ  | `śed́eŋ` | `ˈsʲedʲeŋ` |
+| **Erzya** | сӓдей   | `säd́ej` | `ˈsädʲej` |
+| Permic | — | — | — | — |
 | **Proto-Permic** | śɔ̈läm  | `śꞷ̈läm` or `śɔ̈läm` | `ˈɕœlæm`  | |
 | **Komi-Zyryan** | сьӧлӧм | `śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
 | **Komi-Permyak** | сьӧлӧм | `śölöm` | `ˈɕɵlɵm` or `ˈɕɘlɘm` |
 | **Komi-Yazva** | сьӧлөм | `śölɵm` | `ˈɕɵlɤ̹̈m` |
 | **Udmurt** | сюлэм | `śulem` | `ɕulem` |
-| — | — | — | — | — |
-| **Hungarian** | *szív* | `siiv` | Long vowel via UUA doubling |
+| Mari | — | — | — | — |
+| **Proto-Mari** | *šü̆m* | `šöm` | `ˈʃøm` | ü̆ is close-mid front rounded vowel in Proto-Mari for Wiktionary |
+| **Eastern Mari** | шӱм | `šüm` | `ˈʃym` |
+| **Western Mari** | шӱм | `šüm` | `ˈʃym` |
+| Ugric | — | — | — | — |
+| **Hungarian** | *szív* | `siiv` | `ˈsiːv` | Long vowel via UUA doubling |
+| **Proto-Khanty** | *sĭm* | — | — | — |
+| **Northern Khanty** | сӑм | `săm` | — | Kazym |
+| **Northern Khanty** | сӑм | `săm` | — | Middle Ob |
+| **Northern Khanty** | сам | `sam` | — | Shuryshkar |
+| **Eastern Khanty** | сәм | | | Surgut |
+| **Eastern Khanty** | сӛм |  | | Vakh |
+| **Eastern Khanty** |  | | | Yugan |
 
-| **Northern Khanty** | xulem | `xuləm` | Uses central schwa `ə` |
-| **Mansi** | šim | `šim` | — |
+
+| — | — | — | — | — |
 
 ---
 
