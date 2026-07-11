@@ -202,8 +202,6 @@ Proof of structural clarity across families using the UUA standard.
 | **Eastern Khanty** | сәм | | | Surgut |
 | **Eastern Khanty** | сӛм |  | | Vakh |
 | **Eastern Khanty** |  | | | Yugan |
-
-
 | — | — | — | — | — |
 
 ---
