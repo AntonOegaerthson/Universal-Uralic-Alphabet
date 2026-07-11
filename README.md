@@ -90,7 +90,7 @@ Proof of structural clarity across families using the UUA standard.
 ### Concept: Eye (Proto-Uralic *śilmä*)
 
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA | Notes |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | **Proto-Uralic** | *śilmä* | `śilmä` | `ˈɕilmæ` or `sʲilmæ` | |
 | **Proto-Finnic** | *silmä* | `silmä` | `ˈsilmæ` | |
 | **Finnish** | *silmä* | `silmä` | `ˈsilmæ` | |
