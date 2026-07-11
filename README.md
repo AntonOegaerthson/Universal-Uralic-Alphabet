@@ -163,7 +163,7 @@ Proof of structural clarity across families using the UUA standard.
 ### Concept: Heart (Proto-Uralic *śüdäme*)
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Proto-Uralic** | *śüdäme* | `śüdäme` | `ˈsʲydæme` or `ˈɕydæme` | Ancestral reconstruction |
+| **Proto-Uralic** | *śüdäme* | `śüdäme` | `ˈsCydæme` or `ˈɕydæme` | Ancestral reconstruction |
 | Finnic | — | — | — | — |
 | **Proto-Finnic** | *südän* | `südän` |  `ˈsydæn` | Ancestral Reconstruction |
 | **Finnish** | *sydän*  | `südän` | `ˈsydæn` | (stem: *sydäme-*) | 
@@ -215,7 +215,18 @@ Proof of structural clarity across families using the UUA standard.
 | **Proto-Enets–Nenets** | sej | `sej` | `ˈsej` | I hypothesized this reconstruction, given how all Enets and Nenets languages have some mid front unrounded vowel between s and j|
 | **Forest Enets** | сԑй | `sɛj` | `ˈsɛj` | Extremely endangered. |
 | **Forest Nenets** | шей | `š́ej` | `ˈʃʲej` |  |
-| **Tundra Nenets** | сей | `śejə` | `sʲej(ə̥)` |
+| **Tundra Nenets** | сей | `śejə` | `ˈsʲej(ə̥)` |
+| **Proto-Selkup** | sīťə |  `siit́ə` | `ˈsiitʲə` | 
+| **Northern Selkup** | сі̄чы | `siit́śɨ` | `ˈsiitʲsʲɨ` |
+| **Southern Selkup** | хиҗь | `xid́ž́` | `ˈxidʲʒʲ` | Narym |
+| **Southern Selkup** | сэдь | `sed́` | `ˈsedʲ` | Upper Ob |
+| **Kamassian** | сий | `sij` | `ˈsij` |  |
+| **Kamassian** | сӱй | `süj` | `ˈsyj` |  |
+| **Kamassian** | сей | `sej` | `ˈsej` | Koibal |
+| **Mator** | кейе | `keje` | `ˈkeje` |  |
+
+
+
 
 ---
 
