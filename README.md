@@ -28,14 +28,18 @@ Length is represented universally by **doubling the character** (`aa`, `ää`, `
 | **ä** | [æ] | LATIN SMALL LETTER A WITH DIAERESIS | `U+00E4` | Near-open front unrounded (Finnish, Moksha, Nenets, ) |
 | **ö** | [ø] | LATIN SMALL LETTER O WITH DIAERESIS | `U+00F6` | Mid-front rounded (Finnish, Estonian, Hungarian, Mari `ö`, Permic `ö` (Value varies for Permic `ö`, but can be [ɘ] or [ɵ], and the rounded/weakly rounded and close-mid nature is best represented by ö)) |
 | **ü** | [y] | LATIN SMALL LETTER U WITH DIAERESIS | `U+00FC` | Close front rounded (Estonian, Hungarian, Mari El `ü`, can be represented by the letter `y` if preferred, since Finnish uses `y`) |
-| **ə** | [ə] | LATIN SMALL LETTER SCHWA | `U+019F` | Central schwa (Mari El `y`, Khanty,  Nenets) |
-| **õ** | [ɯ] or [ɤ] | LATIN SMALL LETTER O WITH TILDE | `U+00F5` | Close back unrounded (Permic `y`, Estonian, Livonian) |
+| **ə** | [ə] | LATIN SMALL LETTER SCHWA | `U+019F` | mid central uncrounded (Mari El `ы`, Khanty,  Nenets) |
+| **ə̈** | [ə̟] | LATIN SMALL LETTER SCHWA + COMBINING DIAERESIS | `U+019F + U+0308` | Fronted mid central unrounded (Hill Mari/Western Mari ӹ) |
+| **õ** | [ɯ] or [ɤ] | LATIN SMALL LETTER O WITH TILDE | `U+00F5` | Close back unrounded (Permic `ы`, Estonian õ, Livonian õ (strictly close back unrounded, Livonian ȯ, which represents the close-mid back unrounded vowel and constrasts with õ, will be written as either ꞷ̃ or  ɔ̃) |
+| **ꞷ̃** | [ɤ] | LATIN SMALL LETTER OMEGA + COMBINING TILDE | `U+A7B7 + U+0303` |  Strictly used for Livonian's [ɤ], which contrasts with [ɯ], unlike in Estonian, where only one of these vowels exists and do not contrast. Replaces ȯ.|
+| **ɔ̃** | [ɤ] | LATIN SMALL LETTER OPEN O + COMBINING TILDE | `U+0254 + U+0303` |  Strictly used for Livonian's [ɤ], which contrasts with [ɯ], unlike in Estonian, where only one of these vowels exists and do not contrast. Replaces ȯ. Acceptable alternative to ꞷ̃.|
 | **e** | [e] | LATIN SMALL LETTER E | `U+0065` | Close-mid front unrounded (All Uralic languages) |
 | **i** | [i] | LATIN SMALL LETTER I | `U+0069` | Close front unrounded (All Uralic languages) |
 | **ɛ** | [ɛ] | LATIN SMALL LETTER OPEN E | `U+025B` | Open-mid front unrounded (Khanty `є`, Enets `ԑ`) |
 | **ꞷ** | [ɔ] | LATIN SMALL LETTER OMEGA | `U+A7B7` | Open-mid back rounded (Enets `o`) |
 | **a** | [a] or [ɑ] | LATIN SMALL LETTER A | `U+0061` | Open central unrounded or Open back unrounded (All Uralic Languages) |
 | **o** | [o] | LATIN SMALL LETTER O | `U+006F` | Close-mid back unrounded (All Uralic Languages, Enets `ô`) |
+| **ɔ** | [ɔ] | LATIN SMALL LETTER OPEN O | `U+0254`| Open-mid back rounded (Enets `o`) (Used as an acceptable alternative to ꞷ) |
 | **u** | [u] | LATIN SMALL LETTER U | `U+0075` | Close back unrounded (All Uralic Languages) |
 | **ө** | [ɤ̹̈] | LATIN SMALL LETTER BARRED O | `U+0275` | Close-mid back slightly centralized weakly rounded (Komi-Yazva) Used as the "central counterpart" to a present "ö", appearing between ö and o.) |
 | **ɘ** | [ɘ] | LATIN SMALL LETTER REVERSED E | `U+0258` | Close-mid central unrounded vowel (Eastern Khanty ӛ. Skolt Sami õ.) |
