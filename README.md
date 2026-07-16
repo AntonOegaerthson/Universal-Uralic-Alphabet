@@ -83,9 +83,9 @@ Turns the underutilized Semicolon (**`;`**) and Backtick (**`` ` ``**) into "Dea
 | **`;`** *(Palatalization)* | `'` | **`ɂ̃`** | Nasalized Glottal Stop |
 ---
 ### Affricate Matrix Macros (Makes it easier to understand affricates, undoes Slavic c being used for ts, removes the Slavic element, making it uniquely Uralic)
-*   Type `ts` ──> **`ts`** | Type `tss` ──> **`tss`** (Geminated)
-*   Type `tš` ──> **`tš`** | Type `tšš` ──> **`tšš`** (Geminated)
-*   Type `t;s` ──> **`t́ś`** | Type `t;ss` ──> **`t́śś`** (Geminated)
+*   Type `ts` ──> **`ts`** | Type `tts` ──> **`tts`** (Geminated)
+*   Type `tš` ──> **`tš`** | Type `ttš` ──> **`ttš`** (Geminated)
+*   Type `t;s` ──> **`t́ś`** | Type `t;ts` ──> **`t́t́ś`** (Geminated)
 
 ---
 # 🧪 Universal Diagnostic Cross-Test
