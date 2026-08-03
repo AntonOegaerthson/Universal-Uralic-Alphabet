@@ -167,11 +167,11 @@ Proof of structural clarity across families using the UUA standard.
 ### Concept: Heart (Proto-Uralic *śüdäme*)
 | Language | Traditional / Cyrillic Script | Universal Uralic Alphabet (UUA) | IPA | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Proto-Uralic** | *śüdäme* | `śüdäme` | `ˈsCydæme` or `ˈɕydæme` | Ancestral reconstruction |
+| **Proto-Uralic** | *śüdäme* | `śüdäme` | `ˈsʲydæme` or `ˈɕydæme` | Ancestral reconstruction |
 | Finnic | — | — | — | — |
 | **Proto-Finnic** | *südän* | `südän` |  `ˈsydæn` | Ancestral Reconstruction |
 | **Finnish** | *sydän*  | `südän` | `ˈsydæn` | (stem: *sydäme-*) | 
-| **Estonian** | *süda*  | `süda` | `ˈsydæ` | (stem: *südame-*)  |
+| **Estonian** | *süda*  | `süda` | `ˈsyda` | (stem: *südame-*)  |
 | **Ingrian** | *syän* | `süän` | `ˈsyæn` | |
 | **North Karelian** | *šyväin* or *šytän* | `šüväin` or `šütän` |
 | **South Karelian** | *šiämi* | `šiämi` | `ˈʃiæmi`| |
